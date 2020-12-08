@@ -171,14 +171,14 @@ const SideLeft = () => {
                   <div className='copyright'>
                     © 2013-{new Date().getFullYear()} VMware, Inc.
                     <br />
-                    start.spring.io is powered by{' '}
+                    xujin.org is powered by{' '}
                     <span>
                       <a
                         target='_blank'
                         rel='noopener noreferrer'
                         href='https://github.com/spring-io/initializr/'
                       >
-                        Spring Initializr
+                        Halo Initializr
                       </a>
                     </span>{' '}
                     <span>and</span>{' '}
