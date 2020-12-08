@@ -3,7 +3,7 @@ import React from 'react'
 
 const Logo = ({ className }) => {
   return (
-    <img src={require('./logo/cube.png')}></img>
+    <img  src={require('./logo/logo.png')}/>
   )
 }
 
