@@ -12,6 +12,7 @@ body {
   font-family: $spring-font-family;
   background-color: $light-background;
   margin: 0;
+  background: linear-gradient(to right, #ff6a00 4px, #fff 4px 316px, #fff 316px);
 }
 
 #app {
@@ -125,6 +126,8 @@ body {
         outline: none;
         box-shadow: none;
         padding: 6px;
+
+        
       }
       img {
         display: block;

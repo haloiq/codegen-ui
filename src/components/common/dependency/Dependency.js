@@ -15,7 +15,7 @@ function Dependency({ refButton }) {
   return (
     <div className='control'>
       <div className='dependency-header'>
-        <span className='label'>Dependencies</span>
+        <span className='label'>Module And Dependencies </span>
         <Button
           id='explore-dependencies'
           onClick={event => {
