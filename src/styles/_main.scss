@@ -12,6 +12,7 @@ body {
   font-family: $spring-font-family;
   background-color: $light-background;
   margin: 0;
+  background: linear-gradient(to right, #ff6a00 4px, #fff 4px 316px, #fff 316px);
 }
 
 #app {
@@ -125,9 +126,14 @@ body {
         outline: none;
         box-shadow: none;
         padding: 6px;
+
+        
       }
-      svg {
+      img {
         display: block;
+        width: 327px;
+        margin-bottom: -42px;
+        margin-top: -35px;
       }
       .st0 {
         fill: $light-primary;

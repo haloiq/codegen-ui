@@ -15,7 +15,7 @@ const config = {
     historyApiFallback: true,
     compress: true,
     open: false,
-    port: 8084,
+    port: 8082,
     proxy: {
       '/': {// 这里代理的是以/api开头的 会走target代理
         target: 'https://start.spring.io',// 你的地址换上

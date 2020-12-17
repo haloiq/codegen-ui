@@ -170,9 +170,14 @@ const Fields = ({
             refButton={refSubmit}
             disabled={generating}
           >
-            Generate
+            生成
           </Button>
         )}
+
+        <Button>
+          下一步
+        </Button>
+
         <Button
           id='explore-project'
           onClick={onExplore}
